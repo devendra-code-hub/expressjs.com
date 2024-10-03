@@ -13,6 +13,7 @@ To preview the website locally:
    ```sh
    $ gem install jekyll-redirect-from
    ```
+   #my_devendra
    
 1. Clone this repository by running the following command:
    ```sh
